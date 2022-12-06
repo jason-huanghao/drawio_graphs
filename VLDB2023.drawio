@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T09:00:15.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="AdB1nBx8m4737B6DRN9f" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T13:15:35.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="kQmeQVYEhgWcbiN9xcZr" version="20.6.0" type="github">
   <diagram id="x5qFLtVYXVqnTsikpQEC" name="Page-1">
-    <mxGraphModel dx="1166" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1391" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -415,8 +415,8 @@
         <mxCell id="yqQpIYb--vEh2kKgNDlj-39" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=18;fontColor=default;fillColor=#EA6B66;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="134" y="743" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yqQpIYb--vEh2kKgNDlj-42" value="&lt;font color=&quot;#000000&quot;&gt;Class&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Times New Roman;fontColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="159" y="740" width="60" height="30" as="geometry" />
+        <mxCell id="yqQpIYb--vEh2kKgNDlj-42" value="&lt;font color=&quot;#000000&quot;&gt;Entity&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Times New Roman;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="155" y="740" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yqQpIYb--vEh2kKgNDlj-43" value="&lt;font color=&quot;#000000&quot;&gt;Attribute&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Times New Roman;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="321" y="740" width="80" height="30" as="geometry" />
@@ -456,7 +456,7 @@
         <mxCell id="yqQpIYb--vEh2kKgNDlj-51" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=18;fontColor=default;fillColor=#EA6B66;strokeColor=none;" vertex="1" parent="yqQpIYb--vEh2kKgNDlj-52">
           <mxGeometry x="21" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yqQpIYb--vEh2kKgNDlj-55" value="&lt;font color=&quot;#009900&quot; style=&quot;line-height: 1; background-color: rgb(255, 181, 112);&quot;&gt;owl:sameAs&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=15;fontColor=#000000;curved=1;textOpacity=90;" edge="1" parent="1" source="yqQpIYb--vEh2kKgNDlj-4" target="yqQpIYb--vEh2kKgNDlj-5">
+        <mxCell id="yqQpIYb--vEh2kKgNDlj-55" value="&lt;font color=&quot;#009900&quot; style=&quot;line-height: 1; background-color: rgb(255, 181, 112);&quot;&gt;owl:sameAs&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=15;fontColor=#000000;curved=1;textOpacity=85;" edge="1" parent="1" source="yqQpIYb--vEh2kKgNDlj-4" target="yqQpIYb--vEh2kKgNDlj-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630.0000000000055" y="494.67500000000007" as="sourcePoint" />
             <mxPoint x="730" y="494.67999999999995" as="targetPoint" />
